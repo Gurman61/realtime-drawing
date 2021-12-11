@@ -1,0 +1,46 @@
+.heading
+{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 15px darkblue ;
+    color: black;
+    font-weight: 700;
+}
+
+.note
+{
+    font-size: 20px;
+    color: darkgreen;
+    font-weight: 900;
+
+}
+
+#footer
+{
+    background-color: skyblue;
+    color: red;
+    text-align: center;
+    font-size: 30px;
+    line-height: 40px;
+    bottom: 10px;
+    position: fixed;
+    width: 100%;
+    box-shadow: 5px 5px 35px darkblue;
+    font-weight: 700;
+}
+
+canvas
+{
+    border: 10px solid whitesmoke;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px red;
+    background-color: gray;
+}
+
+video
+{
+    border: 10px solid black;
+    border-radius: 20px;
+    box-shadow: 20px red;
+}
